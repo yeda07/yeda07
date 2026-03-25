@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 desarrollo de software
 ---------------------
 
-actualmente me encuentro estudiando y cruzando el ultimo semestre de la tecnología en desarrollo de software
+actualmente me encuentro estudiando y cruzando el ultimo semestre de la ingenieria de sistemas
 
 * 🌍  I'm based in mocoa
 * ✉  You can contact me at [yeidercortes2021@itp.edu.co)
